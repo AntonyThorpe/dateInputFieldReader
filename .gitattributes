@@ -1,0 +1,13 @@
+/dist export-ignore
+/node_modules export-ignore
+/src/spec.js export-ignore
+/thirdparty export-ignore
+.babelrc.json export-ignore
+.eslintrc export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+.npmignore export-ignore
+.prettierrc export-ignore
+index.html export-ignore
+LICENCE export-ignore
+webpack.config.js export-ignore

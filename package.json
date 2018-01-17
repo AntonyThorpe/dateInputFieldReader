@@ -1,0 +1,27 @@
+{
+  "name": "dateinputfieldreader",
+  "version": "1.0.0",
+  "description": "Sneaky shortcuts for date input field data entry with jQuery UI datepicker in any locale.  Provides a better UX by allowing the user to select either the input field or the datepicker.",
+  "main": "src/dateInputFieldReader.js",
+  "scripts": {
+    "build": "node_modules/.bin/webpack",
+    "test": "node_modules/.bin/webpack-dev-server --open 'Google Chrome' --env development"
+  },
+  "keywords": [
+    "date",
+    "input field",
+    "data entry",
+    "entry",
+    "jQuery UI Datepicker"
+  ],
+  "author": "Antony Thorpe",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.1",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.1"
+  }
+}

@@ -1,0 +1,13 @@
+/dist
+/node_modules
+/src/spec.js
+/thirdparty
+.babelrc.json
+.eslintrc
+.gitattributes
+.gitignore
+.npmignore
+.prettierrc
+index.html
+LICENCE
+webpack.config.js
